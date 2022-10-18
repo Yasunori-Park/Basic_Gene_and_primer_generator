@@ -4,8 +4,9 @@ WIP: Extremely basic generator for selecting a gene and an lncRNA from a list, a
 
 This was also done just to observe how easy it would be to generate methods sections claiming to have conducted RT-PCR, whilst containing wrongly identified nucletide sequence reagents (see: PMID 35022248), and gain an estimate on how quickly perported "paper-mills" generate manuscripts. 
 
-#Phases
-Phase 1: Randomly generate sequences using the suggested ratio from the Wikipedia page of Chargaff's rules for Homo sapiens with a random selection of genes + miRs. DONE. 
+# Phases
+
+✔**Phase 1: Randomly generate sequences using the suggested ratio from the Wikipedia page of Chargaff's rules for Homo sapiens with a random selection of genes + miRs. DONE**✔. 
 
 Phase 2: Using a randomly selected miR, find a gene with a binding site (via TargetScan), find the relevant gene on NCBI and retrieve a given number of bases from the provided DNA sequence. 
 
