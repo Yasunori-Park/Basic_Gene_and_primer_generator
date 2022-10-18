@@ -8,6 +8,6 @@ This was also done just to observe how easy it would be to generate methods sect
 
 ✔**Phase 1: Randomly generate sequences using the suggested ratio from the Wikipedia page of Chargaff's rules for Homo sapiens with a random selection of genes + miRs. DONE**✔. 
 
-Phase 2: Using a randomly selected miR, find a gene with a binding site (via TargetScan), find the relevant gene on NCBI and retrieve a given number of bases from the provided DNA sequence. 
+✔**Phase 2: Using a randomly selected miR, find a gene with a binding site (via TargetScan), find the relevant gene on NCBI and retrieve a given number of bases from the provided DNA sequence**✔. 
 
-Phase 3: Repeat Phase 3, but set stringent rules for primer generation e.g. Forward and Reverse within Tm 5C, controlled GC content etc. 
+Phase 3: Repeat Phase 2, but set stringent rules for primer generation e.g. Forward and Reverse within Tm 5C, controlled GC content etc. 
