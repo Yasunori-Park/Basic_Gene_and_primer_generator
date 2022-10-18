@@ -5,8 +5,9 @@ import random
 import requests
 
 
-Entrez.email = "yasunoripark@gmail.com"
+Entrez.email = EMAIL_HERE
 
+#If using a different microRNA: change url and url_miR
 url = "https://www.targetscan.org/cgi-bin/targetscan/vert_72/targetscan.cgi?species=Human&mir_sc=miR-145-5p"
 url_miR = "hsa-miR-145-5p"
 
