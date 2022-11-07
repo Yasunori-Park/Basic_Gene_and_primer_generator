@@ -1,4 +1,4 @@
-# WIP_Basic_Gene_and_primer_generator
+# Basic_Gene_and_primer_generator
 
 WIP: Extremely basic generator for selecting a gene and an lncRNA from a list, and generating a primer. This is done as a way to see the flaws in the current standard operating procedure of wrongly identified nucleotide sequences (https://www.protocols.io/view/seek-amp-blastn-standard-operating-procedure-q26g7b2k1lwz/v1)
 
